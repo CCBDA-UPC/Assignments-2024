@@ -566,13 +566,12 @@ Response:
 ...
 ```
 
-
-**Q24: How long have you been working on this session? What have been the main difficulties you have faced and how have you solved them?** Add your answers to `README.md`.
-
-**Q25: Out of the list of free-available list of API, select ane API and use it to create an interesting application. Describe the use of the application and upload the code that you have created to interact with your selected API.
+**Q24: Out of the list of freely-available list of API, select ane API and use it to create an interesting application. Describe the use of the application and upload the code that you have created to interact with your selected API.
 ```
 https://rapidapi.com/collection/cool-apis
 ```
+
+**Q25: How long have you been working on this session? What have been the main difficulties you have faced and how have you solved them?** Add your answers to `README.md`.
 
 # Apendix
 
