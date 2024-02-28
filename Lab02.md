@@ -569,6 +569,26 @@ Response:
 
 **Q24: How long have you been working on this session? What have been the main difficulties you have faced and how have you solved them?** Add your answers to `README.md`.
 
+# Apendix
+
+You can download them like this and save it to a file (you can also specify the length parameter in order to obtain more):
+
+```bash
+curl -X GET "https://datasets-server.huggingface.co/rows?dataset=tweet_eval&config=emoji&split=train&offset=0&length=100" > tweets.json
+```
+
+and this code reads the JSON file and outputs the correct rows containing the tweets:
+
+```Python
+import json
+
+tweet_file = open("tweets.json")
+tweets = json.load(tweet_file)
+
+rows = tweets["rows"]
+for row in rows:
+    print(row['row']['text'])
+```
 
 # How to submit this assignment:
 
