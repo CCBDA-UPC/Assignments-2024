@@ -564,9 +564,10 @@ Response:
    ]
 }
 ...
-```
 
-**Q24: Out of the list of freely-available list of API, select ane API and use it to create an interesting application. Describe the use of the application and upload the code that you have created to interact with your selected API.
+```
+**Q24: Out of the list of freely-available list of API, select ane API and use it to create an interesting application. Describe the use of the application and upload the code that you have created to interact with your selected API.**
+
 ```
 https://rapidapi.com/collection/cool-apis
 ```
