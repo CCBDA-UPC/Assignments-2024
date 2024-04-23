@@ -168,7 +168,7 @@ Write your answers in the `README.md` file for this session.
 
 # How to submit this assignment:
 
-Use the **private** repo named *https://github.com/CCBDA-UPC/2022-6-xx*. It needs to have, at least, two files `README.md` with your responses to the above questions and `authors.json` with both members email addresses:
+Use the **private** repo named *https://github.com/CCBDA-UPC/2022-8-xx*. It needs to have, at least, two files `README.md` with your responses to the above questions and `authors.json` with both members email addresses:
 
 ```json5
 {
@@ -181,6 +181,6 @@ Use the **private** repo named *https://github.com/CCBDA-UPC/2022-6-xx*. It need
 
 Make sure that you have updated your local GitHub repository (using the `git`commands `add`, `commit` and `push`) with all the files generated during this session. 
 
-**Before the deadline**, all team members shall push their responses to their private *https://github.com/CCBDA-UPC/2022-6-xx* repository.
+**Before the deadline**, all team members shall push their responses to their private *https://github.com/CCBDA-UPC/2022-8-xx* repository.
 
 
